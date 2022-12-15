@@ -1,4 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+@import url('_bear.css');
+@import url('_button.css');
+@import url('_snow.css');
+@import url('AXEL.css');
+@import url('defile.css');
+@import url('jokes.css');
+
 body {
-    background-color: red;
+    font-family: 'Mountains of Christmas', cursive;
+    color: white;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+#link {
+    position: bottom;
+    font-size: 1rem;
     color: white;
 }
